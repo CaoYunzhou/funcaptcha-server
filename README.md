@@ -2,6 +2,19 @@
 
 > 📝 Based on🔗 [MagicalMadoka/funcaptcha-challenger](https://github.com/MagicalMadoka/funcaptcha-challenger) Image recognition server
 
+## Sponsors
+
+### [Capsolver](https://capsolver.com?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha-server)
+
+[![capsolver](https://github.com/MrDgbot/funcaptcha-server/assets/60038945/6b1ea84b-5469-42d9-9167-c575de1b1749)](https://capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha-server)
+
+
+[Capsolver.com](https://capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha-server) is
+an AI-powered service that provides automatic captcha solving capabilities. It supports a range of captcha types,
+including reCAPTCHA, hCaptcha, and FunCaptcha, AWS Captcha, Geetest, image captcha among others. Capsolver offers both
+Chrome and Firefox extensions for ease of use, API integration for developers, and various pricing packages to suit
+different needs.
+
 ## 🔍️ **Supported models**
 -  SUPPORTED MODELS:
 
